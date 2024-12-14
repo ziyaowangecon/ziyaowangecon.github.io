@@ -1,15 +1,16 @@
 ---
 permalink: /
-title: "About me:"
+title: "Welcome to My Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Ziyao Wang, a Ph.D. candidate in Economics at Northeastern University. I am on the 2025-2026 job market.
+## About Me
+I am a Ph.D. candidate in Economics at [Northeastern University](https://www.northeastern.edu). I am on the 2025-2026 job market.
 
-My research work is in the areas of Industrial Organization, and applied microeconomics, with a focus on Productivity, Merger & Acquisition, and Digital Economics. 
+My research work is in the areas of Industrial Organization, and Applied Microeconomics, with a focus on Productivity, Merger & Acquisition, and Digital Economics. 
 
 I hold an M.Sc. in Economics from the University of Wisconsin, Madison, an M.Sc. in Finance & Economics from Southampton University, and a B.A. in Economics from China University of Geosciences.
 
