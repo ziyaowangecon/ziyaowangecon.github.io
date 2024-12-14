@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ZIYAO WANG"
+title                    : "ZIYAO WANG's Personal Website"
 title_separator          : "-"
 name                     : &name "Ziyao Wang"
 description              : &description "Ziyao Wang | Ph.D. in Economics at Northeastern University"
