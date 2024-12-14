@@ -22,7 +22,7 @@ repository               : "ziyaowangecon/ziyaowangecon.github.io"
 author:
   # Biographic information
   avatar           : "linkedin_profile.jpeg"
-  name             : "Ziyao Wang"
+  name             : "Ziyao Wang" 
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidates in Economics"
   location         : "Boston, MA, US"
@@ -265,14 +265,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+#  - scope:
+#      path: ""
+#      type: portfolio
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comment: true
   # _talks
   - scope:
       path: ""
