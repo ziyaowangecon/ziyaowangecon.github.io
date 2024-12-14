@@ -12,7 +12,7 @@ title                    : "ZIYAO WANG"
 title_separator          : "-"
 name                     : &name "Ziyao Wang"
 description              : &description "Ziyao Wang | Ph.D. in Economics at Northeastern University"
-url                      : https://ziyaowangecon.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+URL                      : "https://ziyaowangecon.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ziyaowangecon/ziyaowangecon.github.io"
 
