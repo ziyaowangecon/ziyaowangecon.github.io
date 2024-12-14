@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About Me
-I am a Ph.D. candidate in Economics at [Northeastern University]([https://www.northeastern.edu](https://cssh.northeastern.edu/economics/)). I am on the 2025-2026 job market.
+I am a Ph.D. candidate in Economics at [Northeastern University]([https://www.northeastern.edu](https://cssh.northeastern.edu/economics/]). I am on the 2025-2026 job market.
 
 My research work is in the areas of Industrial Organization, and Applied Microeconomics, with a focus on Productivity, Merger & Acquisition, and Digital Economics. 
 
