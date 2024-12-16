@@ -65,5 +65,5 @@ author_profile: true
 
 <ul>
   <li> ECON1116 Statistics for Economics (Fall 2023, 2024; Spring 2023) </li>
-
+  <li> ECON1116 Statistics for Economics (Fall 2023, 2024; Spring 2023) </li>
 </ul>
