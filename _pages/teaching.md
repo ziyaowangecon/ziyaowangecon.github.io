@@ -63,7 +63,16 @@ author_profile: true
 
 ## Northeastern University
 
+### Instructor 
+  <li> ECON1116 Principle of Microeconomics (Summer 2023) [Effectiveness Score: 4.8/5.0] </li>
+  <li> ECON1116 Principle of Microeconomics (Summer 2024) [Effectiveness Score: 4.7/5.0] </li>
+
+### Recitation Instructor 
+  <li> ECON1116 Principle of Microeconomics (Fall 2022, 2023; Spring 2023, 2024) </li>
+
+### Teaching Assistant 
 <ul>
-  <li> ECON1116 Statistics for Economics (Fall 2023, 2024; Spring 2023) </li>
-  <li> ECON1116 Statistics for Economics (Fall 2023, 2024; Spring 2023) </li>
+  <li> ECON3440 Public Finance (Spring 2022) </li>
+  <li> ECON2350 Statistics (Spring 2022) </li>
+  <li> ECON3420 Urban Economics (Fall 2022) </li>
 </ul>
