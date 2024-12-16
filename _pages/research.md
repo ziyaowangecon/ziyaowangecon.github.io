@@ -62,3 +62,9 @@ author_profile: true
 </script>
 
 ## Working Papers
+
+### Non-neutral Technological Change in Chinese Manufacturing
+
+### Mergers, Acquisitions, and Productivity Evolution: Evidence from the U.S. Manufacturing 
+
+### From Bitter Rivals to Sweet Business: Nestle-Starbucks Joint Venture
