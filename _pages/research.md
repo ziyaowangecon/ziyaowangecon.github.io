@@ -63,7 +63,10 @@ author_profile: true
 
 ## Working Papers
 
-### Non-neutral Technological Change in Chinese Manufacturing
+### Non-neutral Technological Change in Chinese Manufacturing **[Job Market Paper]**
+
+#### Abstract: 
+Between 1998 and 2008, Chinese manufacturing experienced rapid revenue growth and significant shifts in input factor cost shares, providing strong evidence of biased technological change—technological improvements that unevenly affect different factors of production. This paper develops a novel method to identify firm-level heterogenous technological change, for capital, labor, and materials inputs, within the framework of a Constant Elasticity of Substitution (CES) production function. The estimates indicate an elasticity of substitution of 0.315. Labor-augmenting productivity increased fastest at an annual growth of 12.21% and demonstrated a high level of persistence, followed by capital-augmenting productivity at 4.88% and material-augmenting productivity at 1.41%. In addition, substantial heterogeneity in the rates of technological change is observed across manufacturing sectors. Using these estimates, we explain changes in input shares through variations in efficiency, prices, and firm dynamics, including entry and exit. 
 
 ### Mergers, Acquisitions, and Productivity Evolution: Evidence from the U.S. Manufacturing 
 
