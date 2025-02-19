@@ -69,4 +69,6 @@ Abstract: Between 1998 and 2008, Chinese manufacturing experienced rapid revenue
 
 ### Mergers, Acquisitions, and Productivity Evolution: Evidence from the U.S. Manufacturing 
 
+### On Estimating Firm-level Productivity: A Method based on Dynamic Panel
+
 ### From Bitter Rivals to Sweet Business: Nestle-Starbucks Joint Venture
