@@ -71,4 +71,4 @@ Abstract: Between 1998 and 2008, Chinese manufacturing experienced rapid revenue
 
 ### On Estimating Firm-level Productivity: A Method based on Dynamic Panel
 
-### From Bitter Rivals to Sweet Business: Nestle-Starbucks Joint Venture
+### From Bitter Rivals to Sweet Business: Nestle-Starbucks Joint Venture (joint with Muhammad Shabanpour)
