@@ -71,6 +71,6 @@ Abstract: This paper identifies firm-level factor-augmenting productivity for ca
 
 ### On Estimating Firm-level Productivity: A Method based on Dynamic Panel
 
-### Mergers, Acquisitions, and Productivity Evolution: Evidence from the U.S. Manufacturing 
+<!-- ### Mergers, Acquisitions, and Productivity Evolution: Evidence from the U.S. Manufacturing-->
 
 ### From Bitter Rivals to Sweet Business: Nestle-Starbucks Joint Venture (joint with Muhammad Shabanpour)
