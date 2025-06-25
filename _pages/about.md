@@ -10,7 +10,7 @@ redirect_from:
 ## About Me
 I am a PhD candidate in Economics at [Northeastern University](https://cssh.northeastern.edu/economics/). I am on the 2025-2026 job market.
 
-My research is in Empirical Industrial Organization and Applied Microeconomics, with a focus on Productivity, Mergers and Acquisitions, and Firm Dynamics. 
+My research is in Empirical Industrial Organization and Applied Microeconomics, with a focus on Productivity, Technological Change, and Firm Dynamics. 
 
 <!--I hold an M.Sc. in Economics from the University of Wisconsin-Madison, an M.Sc. in Finance & Economics from the University of Southampton, and a B.A. in Economics from the China University of Geosciences.-->
 
