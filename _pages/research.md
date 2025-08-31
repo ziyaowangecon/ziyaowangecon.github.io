@@ -69,8 +69,8 @@ Abstract: This paper identifies firm-level factor-augmenting productivity for ca
 
 ### Privatization and Non-neutral Technological Change in Chinese Manufacturing
 
-### On Estimating Firm-level Productivity: A Method based on Dynamic Panel
+<!-- ### On Estimating Firm-level Productivity: A Method based on Dynamic Panel-->
 
 <!-- ### Mergers, Acquisitions, and Productivity Evolution: Evidence from the U.S. Manufacturing-->
 
-### From Bitter Rivals to Sweet Business: Nestle-Starbucks Joint Venture (joint with Muhammad Shabanpour)
+### Vertical Licensing, Pricing, and Welfare: Evidence from the Instant Coffee Market (joint with Muhammad Shabanpour)
