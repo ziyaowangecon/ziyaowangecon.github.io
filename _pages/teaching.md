@@ -73,4 +73,11 @@ author_profile: true
 ### Teaching Assistant 
    - ECON3440 Public Finance (Spring 2022)
    - ECON2350 Statistics (Spring 2022) 
-   - ECON3420 Urban Economics (Fall 2022) 
+   - ECON3420 Urban Economics (Fall 2022)
+
+## University of Mannheim & ZEW
+
+### Teaching Assistant for Jordi Jaumandreu
+
+- Estimating the Production Function, Productivity, and Markups (PhD level, 2025 Summer)  
+ 
