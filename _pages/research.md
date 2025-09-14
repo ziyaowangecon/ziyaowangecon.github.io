@@ -69,8 +69,9 @@ Abstract: This paper identifies firm-level factor-augmenting productivity for ca
 
 ### Privatization and Non-neutral Technological Change in Chinese Manufacturing
 
+### Artificial Intelligence (AI) and Productivity: Evidence from Korean Firms *(joint with Jae Wook Jung)*
 <!-- ### On Estimating Firm-level Productivity: A Method based on Dynamic Panel-->
 
 <!-- ### Mergers, Acquisitions, and Productivity Evolution: Evidence from the U.S. Manufacturing-->
 
-### Vertical Licensing, Pricing, and Welfare: Evidence from the Instant Coffee Market (joint with Muhammad Shabanpour)
+### Vertical Licensing, Pricing, and Welfare: Evidence from the Instant Coffee Market *(joint with Muhammad Shabanpour)*
