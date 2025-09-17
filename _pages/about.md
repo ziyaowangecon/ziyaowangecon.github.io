@@ -10,7 +10,8 @@ redirect_from:
 ## About Me
 I am a PhD candidate in Economics at [Northeastern University](https://cssh.northeastern.edu/economics/). I am on the 2025-2026 job market.
 
-My research is in Empirical Industrial Organization and Applied Microeconomics, with a focus on Productivity, Technological Change, and Firm Dynamics. 
+My research spans Empirical IO, Development, Applied Econometrics, and Chinese Economy, with a special focus on productivity, technological change (including AI adoption), and industrial policy. ​I study how domestic policies and new technologies shape heterogeneous firms’ input choices, organization, and performance. Methodologically, I estimate static and dynamic structural models (e.g., production with biased technical change, endogenous productivity change). Much of my work leverages large Chinese and Korean firm-level datasets to recover input-specific productivity and quantify policy impacts.
+
 
 <!--I hold an M.Sc. in Economics from the University of Wisconsin-Madison, an M.Sc. in Finance & Economics from the University of Southampton, and a B.A. in Economics from the China University of Geosciences.-->
 
