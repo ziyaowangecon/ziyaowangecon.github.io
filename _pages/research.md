@@ -74,11 +74,11 @@ Abstract: This paper identifies firm-level factor-augmenting productivity for ca
 
 <!-- ### Mergers, Acquisitions, and Productivity Evolution: Evidence from the U.S. Manufacturing-->
 
-
-
 ## Work In Progress
 
 ### Vertical Licensing, Pricing, and Welfare: Evidence from the Instant Coffee Market *(joint with Muhammad Shabanpour)*
 
-## [Research Statement](https://www.dropbox.com/scl/fi/mdgk6i5x1evigsmbk6i5j/Research_Statement.pdf?rlkey=9r8kbsbc92u4ieqq1tl0jsj9e&st=2j32at85&dl=0)
+<!-- 
+## [Research Statement](https://www.dropbox.com/scl/fi/mdgk6i5x1evigsmbk6i5j/Research_Statement.pdf?rlkey=9r8kbsbc92u4ieqq1tl0jsj9e&st=2j32at85&dl=0) 
+-->
 
