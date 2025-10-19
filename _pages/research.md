@@ -69,7 +69,7 @@ Abstract: This paper identifies firm-level factor-augmenting productivity for ca
 
 ### Privatization and Non-neutral Technological Change in Chinese Manufacturing
 
-### Artificial Intelligence (AI) and Productivity: Evidence from Korean Firms *(joint with Jae Wook Jung)*
+### Artificial Intelligence (AI) and Endogenous Productivity: Evidence from Korean Firms *(joint with Jae Wook Jung)*
 <!-- ### On Estimating Firm-level Productivity: A Method based on Dynamic Panel-->
 
 <!-- ### Mergers, Acquisitions, and Productivity Evolution: Evidence from the U.S. Manufacturing-->
