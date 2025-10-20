@@ -12,7 +12,7 @@ I am a PhD candidate in Economics at [Northeastern University](https://cssh.nort
 
 My research spans **Industrial Organization**, **Development and Growth**, and **Applied Econometrics**, with a special focus on *Productivity*, *Technological Change*, *Market Power*, and *Economics of AI*. ​
 
-My work explains where productivity growth comes from—which inputs, which firms, and which policies—and provides estimates that speak to reform design, technology policy, and long-run growth.. Methodologically, I estimate dynamic structural models (e.g., production with biased technological change, endogenous productivity change). Much of my work leverages large Chinese and Korean firm-level datasets to recover input-specific productivity and quantify policy impacts.
+My work explains where productivity growth comes from—which inputs, which firms, and which policies—and provides estimates that speak to reform design, technology policy, and long-run growth. I build structural models that are linked to firm behavior and estimate them with panel data identification strategies.
 
 <!--I hold an M.Sc. in Economics from the University of Wisconsin-Madison, an M.Sc. in Finance & Economics from the University of Southampton, and a B.A. in Economics from the China University of Geosciences.-->
 
