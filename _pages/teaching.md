@@ -64,17 +64,17 @@ author_profile: true
 ## Northeastern University
 
 ### Instructor 
-- ECON1116 Principle of Microeconomics (Summer 2024) [Evaluation: 4.8/5.0] [\[Report\]](https://www.dropbox.com/scl/fi/ruqv0y5tvuwjwsg87j27r/Ziyao-Wang-Summer-2024-ECON-1116.pdf?rlkey=m0czxaz0vkfmyyr4qtd2cb0e1&st=eqmnlr9w&dl=0){:target="_blank" rel="noopener"}
+- Principle of Microeconomics (Summer 2024) [Evaluation: 4.8/5.0] [\[Report\]](https://www.dropbox.com/scl/fi/ruqv0y5tvuwjwsg87j27r/Ziyao-Wang-Summer-2024-ECON-1116.pdf?rlkey=m0czxaz0vkfmyyr4qtd2cb0e1&st=eqmnlr9w&dl=0){:target="_blank" rel="noopener"}
 
-- ECON1116 Principle of Microeconomics (Summer 2023) [Evaluation: 4.7/5.0] [\[Report\]](https://www.dropbox.com/scl/fi/o1i14n0hk775ggcid7uqy/Ziyao-Wang-Summer-2023-ECON-1116.pdf?rlkey=tu6dt5fz9qzkzy542c45sai2j&st=s6b3560t&dl=0){:target="_blank" rel="noopener"}
+- Principle of Microeconomics (Summer 2023) [Evaluation: 4.7/5.0] [\[Report\]](https://www.dropbox.com/scl/fi/o1i14n0hk775ggcid7uqy/Ziyao-Wang-Summer-2023-ECON-1116.pdf?rlkey=tu6dt5fz9qzkzy542c45sai2j&st=s6b3560t&dl=0){:target="_blank" rel="noopener"}
 
 ### Recitation Instructor 
-   - ECON1116 Principle of Microeconomics (Fall 2022, 2023; Spring 2023, 2024)
+   -  Principle of Microeconomics (Fall 2022, 2023; Spring 2023, 2024)
 
 ### Teaching Assistant 
-   - ECON3440 Public Finance (Spring 2022)
-   - ECON2350 Statistics (Spring 2022) 
-   - ECON3420 Urban Economics (Fall 2022)
+   -  Public Finance (Spring 2022)
+   -  Statistics (Spring 2022) 
+   -  Urban Economics (Fall 2022)
 
 ## University of Mannheim & ZEW
 
