@@ -71,7 +71,7 @@ Abstract: This paper identifies firm-level factor-augmenting productivity for ca
 
 ### Artificial Intelligence (AI) and Endogenous Productivity: Evidence from Korean Firms *(joint with Jae Wook Jung)*
 
-Abstract: This paper examines the impact of artificial intelligence (AI) adoption on firm-level productivity in South Korea. Using firm-level data between 2017 and 2023, we construct measures of AI adoption and estimate the endogenous productivity change to address the selection bias of AI adoption. We find that AI adopters experience a 4% short-run revenue increase on average. AI adoption effects are heterogeneous across years and sectors, with stronger gains in Information and Communication sectors and Service sectors, and more negligible impacts in Trade sectors and Manufacturing.
+Abstract: This paper examines the impact of artificial intelligence (AI) adoption on firm-level productivity. Using firm-level data between 2017 and 2023  in South Korea, we construct measures of AI adoption and estimate the endogenous productivity change to address the selection bias of AI adoption. We find that AI adopters experience a 4% short-run revenue increase on average. AI adoption effects are heterogeneous across years and sectors, with stronger gains in Information and Communication sectors and Service sectors, and more negligible impacts in Trade sectors and Manufacturing.
 
 <!-- ### On Estimating Firm-level Productivity: A Method based on Dynamic Panel-->
 
