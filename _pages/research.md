@@ -88,7 +88,7 @@ author_profile: true
 <a class="toggle-link" href="#" onclick="toggleAbstract('abs-jmp', this); return false;"
    aria-controls="abs-jmp" aria-expanded="false">Show abstract</a>
 <div id="abs-jmp" class="abstract" aria-hidden="true">
-  <strong>Abstract.</strong> This paper identifies firm-level factor-augmenting productivity for capital, labor, and materials using Chinese manufacturing data from 1998 to 2008, a period marked by the reform of state-owned enterprises. We develop a novel method to estimate the parameters of a CES production function and recover the three types of factor-augmenting productivity. The results reveal strong biased technological change: labor-augmenting productivity grew fastest (12% annually), followed by capital (5%), with both outperforming material-augmenting productivity (1.4%). Factor-augmenting productivity shows heterogeneity across ownership types. Dynamic Olley–Pakes decomposition indicates that productivity growth was primarily driven by incumbents, while entrants improved capital efficiency and exiters enhanced labor efficiency. Using these estimates, we explain the cost-share shifts in terms of factor-augmenting productivity gaps and relative input prices.
+This paper identifies firm-level factor-augmenting productivity for capital, labor, and materials using Chinese manufacturing data from 1998 to 2008, a period marked by the reform of state-owned enterprises. We develop a novel method to estimate the parameters of a CES production function and recover the three types of factor-augmenting productivity. The results reveal strong biased technological change: labor-augmenting productivity grew fastest (12% annually), followed by capital (5%), with both outperforming material-augmenting productivity (1.4%). Factor-augmenting productivity shows heterogeneity across ownership types. Dynamic Olley–Pakes decomposition indicates that productivity growth was primarily driven by incumbents, while entrants improved capital efficiency and exiters enhanced labor efficiency. Using these estimates, we explain the cost-share shifts in terms of factor-augmenting productivity gaps and relative input prices.
 </div>
 
 <span class="underline"></span>
@@ -106,7 +106,7 @@ author_profile: true
 <a class="toggle-link" href="#" onclick="toggleAbstract('abs-ai', this); return false;"
    aria-controls="abs-ai" aria-expanded="false">Show abstract</a>
 <div id="abs-ai" class="abstract" aria-hidden="true">
-  <strong>Abstract.</strong> This paper examines the impact of artificial intelligence (AI) adoption on firm-level productivity. Using all sectors data between 2017 and 2023 in South Korea, we construct measures of AI adoption and estimate endogenous productivity change to address selection into adoption. We find that AI adopters experience a 4% short-run revenue increase on average. Effects are heterogeneous across years and sectors, with stronger gains in ICT and services, and muted or slightly negative impacts in trade and manufacturing.
+This paper examines the impact of artificial intelligence (AI) adoption on firm-level productivity. Using all sectors data between 2017 and 2023 in South Korea, we construct measures of AI adoption and estimate endogenous productivity change to address selection into adoption. We find that AI adopters experience a 4% short-run revenue increase on average. Effects are heterogeneous across years and sectors, with stronger gains in ICT and services, and muted or slightly negative impacts in trade and manufacturing.
 </div>
 
 <span class="underline"></span>
