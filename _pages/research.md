@@ -69,6 +69,20 @@ author_profile: true
   }
 </style>
 
+<style>
+  /* Make the toggle link black (and keep it black on visited/hover/focus) */
+  .toggle-link,
+  .toggle-link:visited {
+    color: #000 !important;
+    text-decoration: underline; /* or 'none' if you prefer */
+  }
+  .toggle-link:hover,
+  .toggle-link:focus {
+    color: #000 !important;
+    text-decoration: underline;
+  }
+</style>
+
 <script>
   function toggleAbstract(id, linkEl) {
     var abs = document.getElementById(id);
