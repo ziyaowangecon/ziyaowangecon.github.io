@@ -78,7 +78,7 @@ author_profile: true
 
 ### [Non-neutral Technological Change in Chinese Manufacturing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) **[Job Market Paper]**
 <details>
-  <summary class="toggle-summary">Abstract:</summary>
+  <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
     This paper identifies firm-level factor-augmenting productivity for capital, labor, and materials using Chinese manufacturing data from 1998 to 2008, a period marked by the reform of state-owned enterprises. We develop a novel method to estimate the parameters of a CES production function and recover the three types of factor-augmenting productivity. The results reveal strong biased technological change: labor-augmenting productivity grew fastest (12% annually), followed by capital (5%), with both outperforming material-augmenting productivity (1.4%). Factor-augmenting productivity shows heterogeneity across ownership types. Dynamic Olley–Pakes decomposition indicates that productivity growth was primarily driven by incumbents, while entrants improved capital efficiency and exiters enhanced labor efficiency. Using these estimates, we explain the cost-share shifts in terms of factor-augmenting productivity gaps and relative input prices.
   </div>
@@ -88,7 +88,7 @@ author_profile: true
 
 ### Privatization and Non-neutral Technological Change in Chinese Manufacturing
 <details>
-  <summary class="toggle-summary">Abstract:</summary>
+  <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
     <em>Abstract coming soon.</em>
   </div>
@@ -98,7 +98,7 @@ author_profile: true
 
 ### Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms <em>(joint with Jae Wook Jung)</em>
 <details>
-  <summary class="toggle-summary">Abstract:</summary>
+  <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
     This paper examines the impact of artificial intelligence (AI) adoption on firm-level productivity. Using all sectors data between 2017 and 2023 in South Korea, we construct measures of AI adoption and estimate endogenous productivity change to address selection into adoption. We find that AI adopters experience a 4% short-run revenue increase on average. Effects are heterogeneous across years and sectors, with stronger gains in ICT and services, and muted or slightly negative impacts in trade and manufacturing.
   </div>
@@ -110,7 +110,7 @@ author_profile: true
 
 ### Vertical Licensing, Pricing, and Welfare: Evidence from the Instant Coffee Market <em>(joint with Muhammad Shabanpour)</em>
 <details>
-  <summary class="toggle-summary">Abstract:</summary>
+  <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
     <em>Abstract coming soon.</em>
   </div>
