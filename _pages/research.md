@@ -33,16 +33,22 @@ author_profile: true
     margin-top: 5px;
   }
 
-  /* Toggle link with rotating triangle */
+  /* Toggle link with rotating triangle (black text) */
   .toggle-link {
-    color: #007bff;
-    text-decoration: underline;
+    color: #000;
+    text-decoration: underline; /* change to 'none' if you prefer no underline */
     cursor: pointer;
     font-size: 0.9em;
     margin-left: 8px;
     display: inline-flex;
     align-items: center;
     gap: 6px;
+  }
+  .toggle-link:visited,
+  .toggle-link:hover,
+  .toggle-link:focus {
+    color: #000;
+    text-decoration: underline;
   }
 
   /* Triangle icon (right-pointing by default) */
@@ -64,22 +70,8 @@ author_profile: true
 
   /* Keyboard focus visible */
   .toggle-link:focus {
-    outline: 2px dotted #007bff;
+    outline: 2px dotted #000;
     outline-offset: 2px;
-  }
-</style>
-
-<style>
-  /* Make the toggle link black (and keep it black on visited/hover/focus) */
-  .toggle-link,
-  .toggle-link:visited {
-    color: #000 !important;
-    text-decoration: underline; /* or 'none' if you prefer */
-  }
-  .toggle-link:hover,
-  .toggle-link:focus {
-    color: #000 !important;
-    text-decoration: underline;
   }
 </style>
 
@@ -88,11 +80,12 @@ author_profile: true
     var abs = document.getElementById(id);
     var isHidden = abs.style.display === "none" || abs.style.display === "";
     abs.style.display = isHidden ? "block" : "none";
+    abs.setAttribute("aria-hidden", isHidden ? "false" : "true");
     if (linkEl) {
       linkEl.setAttribute("aria-expanded", isHidden ? "true" : "false");
-      linkEl.textContent = isHidden ? "Hide abstract" : "Show abstract";
+      // Keep the label static as "Abstract:" per your request.
+      // linkEl.textContent = "Abstract:";  // (no change needed)
     }
-    abs.setAttribute("aria-hidden", isHidden ? "false" : "true");
   }
 </script>
 
@@ -100,7 +93,7 @@ author_profile: true
 
 ### [Non-neutral Technological Change in Chinese Manufacturing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) **[Job Market Paper]**
 <a class="toggle-link" href="#" onclick="toggleAbstract('abs-jmp', this); return false;"
-   aria-controls="abs-jmp" aria-expanded="false">Show abstract</a>
+   aria-controls="abs-jmp" aria-expanded="false">Abstract:</a>
 <div id="abs-jmp" class="abstract" aria-hidden="true">
 This paper identifies firm-level factor-augmenting productivity for capital, labor, and materials using Chinese manufacturing data from 1998 to 2008, a period marked by the reform of state-owned enterprises. We develop a novel method to estimate the parameters of a CES production function and recover the three types of factor-augmenting productivity. The results reveal strong biased technological change: labor-augmenting productivity grew fastest (12% annually), followed by capital (5%), with both outperforming material-augmenting productivity (1.4%). Factor-augmenting productivity shows heterogeneity across ownership types. Dynamic Olley–Pakes decomposition indicates that productivity growth was primarily driven by incumbents, while entrants improved capital efficiency and exiters enhanced labor efficiency. Using these estimates, we explain the cost-share shifts in terms of factor-augmenting productivity gaps and relative input prices.
 </div>
@@ -109,7 +102,7 @@ This paper identifies firm-level factor-augmenting productivity for capital, lab
 
 ### Privatization and Non-neutral Technological Change in Chinese Manufacturing
 <a class="toggle-link" href="#" onclick="toggleAbstract('abs-priv', this); return false;"
-   aria-controls="abs-priv" aria-expanded="false">Show abstract</a>
+   aria-controls="abs-priv" aria-expanded="false">Abstract:</a>
 <div id="abs-priv" class="abstract" aria-hidden="true">
   <em>Abstract coming soon.</em>
 </div>
@@ -118,7 +111,7 @@ This paper identifies firm-level factor-augmenting productivity for capital, lab
 
 ### Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms <em>(joint with Jae Wook Jung)</em>
 <a class="toggle-link" href="#" onclick="toggleAbstract('abs-ai', this); return false;"
-   aria-controls="abs-ai" aria-expanded="false">Show abstract</a>
+   aria-controls="abs-ai" aria-expanded="false">Abstract:</a>
 <div id="abs-ai" class="abstract" aria-hidden="true">
 This paper examines the impact of artificial intelligence (AI) adoption on firm-level productivity. Using all sectors data between 2017 and 2023 in South Korea, we construct measures of AI adoption and estimate endogenous productivity change to address selection into adoption. We find that AI adopters experience a 4% short-run revenue increase on average. Effects are heterogeneous across years and sectors, with stronger gains in ICT and services, and muted or slightly negative impacts in trade and manufacturing.
 </div>
@@ -129,7 +122,7 @@ This paper examines the impact of artificial intelligence (AI) adoption on firm-
 
 ### Vertical Licensing, Pricing, and Welfare: Evidence from the Instant Coffee Market <em>(joint with Muhammad Shabanpour)</em>
 <a class="toggle-link" href="#" onclick="toggleAbstract('abs-lic', this); return false;"
-   aria-controls="abs-lic" aria-expanded="false">Show abstract</a>
+   aria-controls="abs-lic" aria-expanded="false">Abstract:</a>
 <div id="abs-lic" class="abstract" aria-hidden="true">
   <em>Abstract coming soon.</em>
 </div>
