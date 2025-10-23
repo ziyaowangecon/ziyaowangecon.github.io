@@ -6,33 +6,23 @@ author_profile: true
 ---
 
 <style>
-  body {
-    line-height: 1.4; /* Adjust line spacing */
-  }
+  body { line-height: 1.4; }
+  p, li { font-size: 1em; }
+  .coauthors, .subcontent { font-size: 0.9em; }
 
-  p, li {
-    font-size: 1em; /* Font size for regular text */
-  }
-
-  .coauthors, .subcontent {
-    font-size: 0.9em; /* Customize specific classes if needed */
-  }
-
+  /* Abstracts are collapsed by default */
   .abstract {
-    display: none; /* Hide the abstract by default */
-    text-align: justify; /* Justify text for better readability */
+    display: none;
+    text-align: justify;
     margin-top: 5px;
   }
 
-  h2, h3 {
-    margin-top: 1.5em; /* Increase space above headings */
-  }
+  h2, h3 { margin-top: 1.5em; }
 
-  /* Indent subcontents and add bullet points for them */
   ul.subcontent {
-    list-style-type: circle; /* Set bullet points to circles for subcontent */
-    margin-left: 10px; /* Indent subcontents */
-    padding-left: 10px; /* Reduce padding for subcontent */
+    list-style-type: circle;
+    margin-left: 10px;
+    padding-left: 10px;
   }
 
   .toggle-link {
@@ -40,9 +30,9 @@ author_profile: true
     text-decoration: underline;
     cursor: pointer;
     font-size: 0.9em;
+    margin-left: 8px;
   }
 
-  /* Divider between each paper */
   .underline {
     display: block;
     margin: 20px 0;
@@ -51,37 +41,48 @@ author_profile: true
 </style>
 
 <script>
-  function toggleAbstract(id) {
-    var abstract = document.getElementById(id);
-    if (abstract.style.display === "none" || abstract.style.display === "") {
-      abstract.style.display = "block";
-    } else {
-      abstract.style.display = "none";
+  function toggleAbstract(id, linkEl) {
+    var abs = document.getElementById(id);
+    var isHidden = abs.style.display === "none" || abs.style.display === "";
+    abs.style.display = isHidden ? "block" : "none";
+    if (linkEl) {
+      linkEl.setAttribute("aria-expanded", isHidden ? "true" : "false");
+      linkEl.textContent = isHidden ? "Hide abstract" : "Show abstract";
     }
+    abs.setAttribute("aria-hidden", isHidden ? "false" : "true");
   }
 </script>
 
 ## Working Papers
 
 ### [Non-neutral Technological Change in Chinese Manufacturing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) **[Job Market Paper]**
+<a class="toggle-link" href="#" onclick="toggleAbstract('abs-jmp', this); return false;" aria-controls="abs-jmp" aria-expanded="false">Show abstract</a>
+<div id="abs-jmp" class="abstract" aria-hidden="true">
+  <strong>Abstract.</strong> This paper identifies firm-level factor-augmenting productivity for capital, labor, and materials using Chinese manufacturing data from 1998 to 2008, a period marked by the reform of state-owned enterprises. We develop a novel method to estimate the parameters of a CES production function and recover the three types of factor-augmenting productivity. The results reveal strong biased technological change: labor-augmenting productivity grew fastest (12% annually), followed by capital (5%), with both outperforming material-augmenting productivity (1.4%). Factor-augmenting productivity shows heterogeneity across ownership types. Dynamic Olley–Pakes decomposition indicates that productivity growth was primarily driven by incumbents, while entrants improved capital efficiency and exiters enhanced labor efficiency. Using these estimates, we explain the cost-share shifts in terms of factor-augmenting productivity gaps and relative input prices.
+</div>
 
-Abstract: This paper identifies firm-level factor-augmenting productivity for capital, labor, and materials using Chinese manufacturing data from 1998 to 2008, a period marked by the reform of state-owned enterprises. We develop a novel method to estimate the parameters of a CES production function and recover the three types of factor-augmenting productivity. The results reveal strong biased technological change:  labor-augmenting productivity grew fastest (12% annually), followed by capital (5%), with both outperforming material-augmenting productivity (1.4%). Factor-augmenting productivity shows heterogeneity across ownership types. Dynamic Olley-Pakes decomposition indicates that productivity growth was primarily driven by incumbents, while entrants improved capital efficiency and exiters enhanced labor efficiency. Using these estimates, we explain the cost-share shifts in terms of factor-augmenting productivity gap and relative input prices.
+<span class="underline"></span>
 
 ### Privatization and Non-neutral Technological Change in Chinese Manufacturing
+<a class="toggle-link" href="#" onclick="toggleAbstract('abs-priv', this); return false;" aria-controls="abs-priv" aria-expanded="false">Show abstract</a>
+<div id="abs-priv" class="abstract" aria-hidden="true">
+  <em>Abstract coming soon.</em>
+</div>
 
-### Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms *(joint with Jae Wook Jung)*
+<span class="underline"></span>
 
-Abstract: This paper examines the impact of artificial intelligence (AI) adoption on firm-level productivity. Using all sectors data between 2017 and 2023 in South Korea, we construct measures of AI adoption and estimate the endogenous productivity change to address the selection bias of AI adoption. We find that AI adopters experience a 4% short-run revenue increase on average. AI adoption effects are heterogeneous across years and sectors, with stronger gains in Information and Communication Technology (ICT) and Services, and muted or slightly negative impacts in trade and manufacturing.
+### Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms <em>(joint with Jae Wook Jung)</em>
+<a class="toggle-link" href="#" onclick="toggleAbstract('abs-ai', this); return false;" aria-controls="abs-ai" aria-expanded="false">Show abstract</a>
+<div id="abs-ai" class="abstract" aria-hidden="true">
+  <strong>Abstract.</strong> This paper examines the impact of artificial intelligence (AI) adoption on firm-level productivity. Using all sectors data between 2017 and 2023 in South Korea, we construct measures of AI adoption and estimate endogenous productivity change to address selection into adoption. We find that AI adopters experience a 4% short-run revenue increase on average. Effects are heterogeneous across years and sectors, with stronger gains in ICT and services, and muted or slightly negative impacts in trade and manufacturing.
+</div>
 
-<!-- ### On Estimating Firm-level Productivity: A Method based on Dynamic Panel-->
-
-<!-- ### Mergers, Acquisitions, and Productivity Evolution: Evidence from the U.S. Manufacturing-->
+<span class="underline"></span>
 
 ## Work In Progress
 
-### Vertical Licensing, Pricing, and Welfare: Evidence from the Instant Coffee Market *(joint with Muhammad Shabanpour)*
-
-<!-- 
-## [Research Statement](https://www.dropbox.com/scl/fi/mdgk6i5x1evigsmbk6i5j/Research_Statement.pdf?rlkey=9r8kbsbc92u4ieqq1tl0jsj9e&st=2j32at85&dl=0) 
--->
-
+### Vertical Licensing, Pricing, and Welfare: Evidence from the Instant Coffee Market <em>(joint with Muhammad Shabanpour)</em>
+<a class="toggle-link" href="#" onclick="toggleAbstract('abs-lic', this); return false;" aria-controls="abs-lic" aria-expanded="false">Show abstract</a>
+<div id="abs-lic" class="abstract" aria-hidden="true">
+  <em>Abstract coming soon.</em>
+</div>
