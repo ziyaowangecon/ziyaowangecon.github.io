@@ -100,7 +100,7 @@ author_profile: true
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
-    This paper examines the impact of artificial intelligence (AI) adoption on firm-level productivity. Using all sectors data between 2017 and 2023 in South Korea, we construct measures of AI adoption and estimate endogenous productivity change to address selection into adoption. We find that AI adopters experience a 4% short-run revenue increase on average. Effects are heterogeneous across years and sectors, with stronger gains in ICT and services, and muted or slightly negative impacts in trade and manufacturing.
+This paper examines the impact of artificial intelligence (AI) adoption on firm-level productivity. Using all sectors data between 2017 and 2023 in South Korea, we use measures of AI adoption and estimate endogenous productivity change to address selection bias in AI adoption. We find that AI adopters experience a 4% short-run revenue increase on average. AI adoption effects are heterogeneous across years and sectors, with stronger gains in Information and Communication Technology (ICT), muted effects in Trade and Services, and slightly negative impacts in Manufacturing. Using these estimates, we analyze the selection into AI adoption. 
   </div>
 </details>
 
