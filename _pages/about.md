@@ -7,6 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+/* 两端对齐段落，仅作用于本页 */
+.justify p {
+  text-align: justify;
+  text-justify: inter-word; /* 更均匀的字间分配 */
+}
+</style>
+
+<div class="justify">
+
 ## About Me
 I am a PhD candidate in Economics at [Northeastern University](https://cssh.northeastern.edu/economics/). I am on the 2025-2026 job market.
 
@@ -56,3 +66,5 @@ My work explains where firm productivity growth comes from—which inputs, which
 <!--For more info-->
 <!---------->
 <!--More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.-->
+
+</div>
