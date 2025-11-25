@@ -98,7 +98,7 @@ This paper examines how ownership transformation during China’s state-owned en
 
 <span class="underline"></span>
 
-### Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms <em>(joint with Jae Wook Jung)</em>
+### [Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms](https://www.dropbox.com/scl/fi/mt7hym1vrr3mkxlsluu9m/AIP_Jung_and_Wang.pdf?rlkey=idlzbxk6ru0up4txgvlhg0lr4&e=1&st=eerl2wy4&dl=0) <em>(joint with Jae Wook Jung)</em>
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
