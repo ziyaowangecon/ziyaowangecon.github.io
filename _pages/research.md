@@ -86,6 +86,16 @@ author_profile: true
 
 <span class="underline"></span>
 
+### [Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms](https://www.dropbox.com/scl/fi/mt7hym1vrr3mkxlsluu9m/AIP_Jung_and_Wang.pdf?rlkey=idlzbxk6ru0up4txgvlhg0lr4&e=1&st=eerl2wy4&dl=0) <em>(joint with Jae Wook Jung)</em>
+<details>
+  <summary class="toggle-summary">Abstract</summary>
+  <div class="abstract">
+This paper studies how artificial intelligence (AI) adoption affects firm-level productivity in South Korea. Using a 2017–2023 panel covering all major market sectors, we combine direct survey measures of AI adoption with a structural model of endogenous productivity to address selection into adoption. We find AI adoption raises revenue-based productivity by about 5% on average, with substantial heterogeneity by time since adoption that is consistent with a delayed J-curve, by sector with the largest gains in ICT and short-run losses in manufacturing, and by application area with gains concentrated in product/service development and sales and marketing rather than production processes. Using the estimates, we also examine how AI adoption relates to market power.
+  </div>
+</details>
+
+<span class="underline"></span>
+
 ### Privatization and Non-neutral Technological Change in Chinese Manufacturing
 <details>
   <summary class="toggle-summary">Abstract</summary>
@@ -96,15 +106,7 @@ This paper examines how ownership transformation during China’s state-owned en
   </div>
 </details>
 
-<span class="underline"></span>
 
-### [Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms](https://www.dropbox.com/scl/fi/mt7hym1vrr3mkxlsluu9m/AIP_Jung_and_Wang.pdf?rlkey=idlzbxk6ru0up4txgvlhg0lr4&e=1&st=eerl2wy4&dl=0) <em>(joint with Jae Wook Jung)</em>
-<details>
-  <summary class="toggle-summary">Abstract</summary>
-  <div class="abstract">
-This paper studies how artificial intelligence (AI) adoption affects firm-level productivity in South Korea. Using a 2017–2023 panel covering all major market sectors, we combine direct survey measures of AI adoption with a structural model of endogenous productivity to address selection into adoption. We find AI adoption raises revenue-based productivity by about 5% on average, with substantial heterogeneity by time since adoption that is consistent with a delayed J-curve, by sector with the largest gains in ICT and short-run losses in manufacturing, and by application area with gains concentrated in product/service development and sales and marketing rather than production processes. Using the estimates, we also examine how AI adoption relates to market power.
-  </div>
-</details>
 
 <span class="underline"></span>
 
