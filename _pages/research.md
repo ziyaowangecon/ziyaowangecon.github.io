@@ -76,7 +76,7 @@ author_profile: true
 
 ## Working Papers
 
-### [Non-neutral Technological Change in Chinese Manufacturing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) **[Job Market Paper]**
+### [Non-neutral Technological Change in Chinese Manufacturing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) 
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
