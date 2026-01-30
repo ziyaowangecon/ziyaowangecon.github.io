@@ -96,7 +96,7 @@ This paper studies how artificial intelligence (AI) adoption affects firm-level 
 
 <span class="underline"></span>
 
-### Privatization and Non-neutral Technological Change in Chinese Manufacturing
+### Privatization, Market Power, and Non-neutral Technological Change in Chinese Manufacturing
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
