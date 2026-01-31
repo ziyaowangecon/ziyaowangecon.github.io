@@ -86,7 +86,7 @@ author_profile: true
 
 <span class="underline"></span>
 
-### [Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms](https://www.dropbox.com/scl/fi/mt7hym1vrr3mkxlsluu9m/AIP_Jung_and_Wang.pdf?rlkey=idlzbxk6ru0up4txgvlhg0lr4&e=1&st=eerl2wy4&dl=0) <em>(joint with Jae Wook Jung)</em>
+### [Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms](https://www.dropbox.com/scl/fi/9pzqjvoqy74qarfnlagzw/AIP_Jung_and_Wang.pdf?rlkey=6xvdw9g7btcqfgl411twfjv9x&st=8xvjmon1&dl=0) <em>(joint with Jae Wook Jung)</em>
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
