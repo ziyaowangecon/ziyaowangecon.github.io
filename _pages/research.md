@@ -112,7 +112,7 @@ This paper examines how ownership transformation during China’s state-owned en
 
 ## Work In Progress
 
-### The Welfare Cost of Artificial Scarcity: Evidence from Sneaker Resale Markets</em>
+### The Welfare Cost of Artificial Scarcity: Evidence from Sneaker Resale Markets
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
