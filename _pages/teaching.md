@@ -76,9 +76,4 @@ author_profile: true
    -  Statistics (Spring 2022) 
    -  Urban Economics (Fall 2022)
 
-## University of Mannheim & ZEW
-
-### Teaching Assistant for Jordi Jaumandreu
-
-- Estimating the Production Function, Productivity, and Markups (PhD level, 2025 Summer)  
  
