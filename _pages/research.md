@@ -100,7 +100,6 @@ This paper studies how artificial intelligence (AI) adoption affects firm-level 
 
 
 
-<span class="underline"></span>
 
 ## Work In Progress
 
@@ -113,6 +112,9 @@ This paper examines how ownership transformation during China’s state-owned en
 <!--The estimates indicate that privatization significantly accelerates labor- and capital-augmenting productivity, with more modest effects for materials, and that SOEs and private firms differ systematically in their labor-market power.-->
   </div>
 </details>
+
+<span class="underline"></span>
+
 
 ### The Welfare Cost of Artificial Scarcity: Evidence from Sneaker Resale Markets
 <details>
