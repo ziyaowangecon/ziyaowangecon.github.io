@@ -76,11 +76,11 @@ author_profile: true
 
 ## Working Papers
 
-### [Non-neutral Technological Change in Chinese Manufacturing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) 
+### [Privatization and Non-neutral Technological Change in Chinese Manufacturing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) 
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
-    This article identifies firm-level factor-augmenting productivity for capital, labor, and materials using Chinese manufacturing data from 1998 to 2008, a period of state-owned enterprise reform. We develop a novel method to estimate the parameters of a CES production function and recover the three types of factor-augmenting productivity. Results suggest technological change is strongly biased: labor-augmenting productivity grew 12% annually, capital-augmenting 5%, and material-augmenting 1.4%. Factor-augmenting productivity growth varies by sector and ownership. Productivity growth was driven primarily by incumbents, whereas entrants improved capital efficiency and exiters enhanced labor efficiency. We explain factor cost-share shifts through productivity gaps and relative input prices.
+    This article estimates firm-level factor-augmenting productivities for capital, labor, and materials in Chinese manufacturing from 1998 to 2008 and asks whether the state-owned enterprise (SOE) privatization reshaped them. Allowing each productivity to follow an endogenous, ownership-dependent process, I find technological change strongly biased toward capital and labor. Private firms operate at higher capital- and labor-augmenting productivity than SOEs, but lower material-augmenting productivity. Privatization itself raises labor-augmenting productivity in the early years after the transition, a front-loaded gain that fades on the full panel but is large and persistent among the 1998 cohort of incumbents; it leaves capital-augmenting productivity no higher, modestly reduces material-augmenting productivity, and is associated with higher markups. Both the productivity growth and the privatization effects vary markedly across industries. A decomposition shows that the SOE sector's catch-up runs through the restructuring of the plants the state kept and, for labor, the exit of overstaffed ones.
   </div>
 </details>
 
