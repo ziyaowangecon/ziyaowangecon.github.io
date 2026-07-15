@@ -96,7 +96,15 @@ This paper studies how artificial intelligence (AI) adoption affects firm-level 
 
 <span class="underline"></span>
 
-### Privatization, Market Power, and Non-neutral Technological Change in Chinese Manufacturing
+
+
+
+
+<span class="underline"></span>
+
+## Work In Progress
+
+### Privatization, Labor Market Power, and Non-neutral Technological Change in Chinese Manufacturing
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
@@ -105,12 +113,6 @@ This paper examines how ownership transformation during China’s state-owned en
 <!--The estimates indicate that privatization significantly accelerates labor- and capital-augmenting productivity, with more modest effects for materials, and that SOEs and private firms differ systematically in their labor-market power.-->
   </div>
 </details>
-
-
-
-<span class="underline"></span>
-
-## Work In Progress
 
 ### The Welfare Cost of Artificial Scarcity: Evidence from Sneaker Resale Markets
 <details>
