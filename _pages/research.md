@@ -86,7 +86,7 @@ author_profile: true
 
 <span class="underline"></span>
 
-### [Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms] <em>(joint with Jae Wook Jung)</em>
+### Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms <em>(joint with Jae Wook Jung)</em>
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
