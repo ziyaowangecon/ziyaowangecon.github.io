@@ -19,7 +19,7 @@ redirect_from:
 <div class="justify" markdown="1">
 
 ## About Me
-I am a PhD candidate in Economics at [Northeastern University](https://cssh.northeastern.edu/economics/). I am on the 2026 Job Market.
+I am a PhD candidate in Economics at [Northeastern University](https://cssh.northeastern.edu/economics/). I am on the 2026/2027 Job Market.
 
 My research spans **Empirical Industrial Organization**, **Development and Growth**, and **Digital Economics**, with a special focus on *Productivity*, *Technological Change*, *Market Power*, and *Economics of AI*.
 
