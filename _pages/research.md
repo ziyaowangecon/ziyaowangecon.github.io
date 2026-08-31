@@ -86,11 +86,11 @@ author_profile: true
 
 <span class="underline"></span>
 
-### Artificial Intelligence (AI) and Endogenous Productivity: Evidence from South Korean Firms <em>(joint with Jae Wook Jung)</em>
+### Is AI Labor-augmenting? Evidence from South Korean Firms <em>(joint with Jae Wook Jung)</em>
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
-This paper studies how artificial intelligence (AI) adoption affects firm-level productivity in South Korea. Using a 2017–2023 panel covering all major market sectors, we combine direct survey measures of AI adoption with a structural model of endogenous productivity to address selection into adoption. We find AI adoption raises revenue-based productivity by about 5% on average, with substantial heterogeneity by time since adoption that is consistent with a delayed J-curve, by sector with the largest gains in ICT and short-run losses in manufacturing, and by application area with gains concentrated in product/service development and sales and marketing rather than production processes. Using the estimates, we also examine how AI adoption relates to market power.
+ <em>Abstract coming soon.</em>
   </div>
 </details>
 
@@ -116,10 +116,3 @@ This paper examines how ownership transformation during China’s state-owned en
 <span class="underline"></span>
 
 
-### The Welfare Cost of Artificial Scarcity: Evidence from Sneaker Resale Markets
-<details>
-  <summary class="toggle-summary">Abstract</summary>
-  <div class="abstract">
-    <em>Abstract coming soon.</em>
-  </div>
-</details>
