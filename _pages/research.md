@@ -76,11 +76,11 @@ author_profile: true
 
 ## Working Papers
 
-### [Privatization and Non-neutral Technological Change in Chinese Manufacturing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) 
+### [Ownership and Non-neutral Technological Change: Evidence from China’s State-owned Enterprises Privatization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) 
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
-    This article estimates firm-level factor-augmenting productivities for capital, labor, and materials in Chinese manufacturing from 1998 to 2008 and asks whether the state-owned enterprise (SOE) privatization reshaped them. Allowing each productivity to follow an endogenous, ownership-dependent process, I find technological change strongly biased toward capital and labor. Private firms operate at higher capital- and labor-augmenting productivity than SOEs, but lower material-augmenting productivity. Privatization itself raises labor-augmenting productivity in the early years after the transition, a front-loaded gain that fades on the full panel but is large and persistent among the 1998 cohort of incumbents; it leaves capital-augmenting productivity no higher, modestly reduces material-augmenting productivity, and is associated with higher markups. Both the productivity growth and the privatization effects vary markedly across industries. A decomposition shows that the SOE sector's catch-up runs through the restructuring of the plants the state kept and, for labor, the exit of overstaffed ones.
+    I estimate firm-level capital-, labor-, and material-augmenting productivity for Chinese manufacturing, 1998–2008, and the effect of state-owned enterprise (SOE) privatization on each. Technological change is strongly biased toward capital and labor. Private firms operate above SOEs on capital and labor, but below on materials. Privatization raises labor-augmenting productivity right after the transition, a front-loaded gain that fades on the full panel but persists among 1998 incumbents. It leaves capital-augmenting productivity no higher and modestly lowers materials. The SOE sector’s catch-up runs through restructuring of the plants the state kept, with exit of overstaffed plants adding to the labor gain.
   </div>
 </details>
 
