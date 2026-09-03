@@ -76,7 +76,7 @@ author_profile: true
 
 ## Working Papers
 
-### [Ownership and Non-neutral Technological Change: Evidence from China’s State-owned Enterprises Privatization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) 
+### [Privatization and Non-neutral Technological Change in Chinese Manufacturing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) 
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
