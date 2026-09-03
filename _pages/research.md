@@ -86,7 +86,7 @@ author_profile: true
 
 <span class="underline"></span>
 
-### Is AI Labor-augmenting? Evidence from South Korean Firms <em>(joint with Jae Wook Jung)</em>
+### Is AI Labor-augmenting? Evidence from Korean Firms <em>(joint with Jae Wook Jung)</em>
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
@@ -103,7 +103,7 @@ author_profile: true
 
 ## Work In Progress
 
-### Privatization, Labor Market Power, and Non-neutral Technological Change in Chinese Manufacturing
+### Smashing the Iron Rice Bowl: Labor-Augmenting Productivity and Labor Market Power under China’s SOE Privatization
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
