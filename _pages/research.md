@@ -90,7 +90,7 @@ author_profile: true
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
- <em>Abstract coming soon.</em>
+    Does AI adoption bias technical change toward labor? We estimate the effect of AI adoption on labor-augmenting and Hicks-neutral productivity for Korean firms from 2017 to 2024, using firms’ self-reports of AI use. Adoption raises labor-augmenting productivity by 6.1% and leaves Hicks-neutral productivity indistinguishable from zero, and the adoption effect on output is 1.6%. Manufacturing carries twice the labor-augmenting coefficient of information and communication (ICT), and the two labor-augmenting effects on output are nearly equal. The labor efficiency comes through production processes in manufacturing and through product and service development in ICT. We recover firm markups and find no evidence that AI adoption raises them.
   </div>
 </details>
 
