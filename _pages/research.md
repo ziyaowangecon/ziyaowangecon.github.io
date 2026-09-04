@@ -86,7 +86,7 @@ author_profile: true
 
 <span class="underline"></span>
 
-### Is AI Labor-augmenting? Evidence from Korean Firms <em>(joint with Jae Wook Jung)</em>
+### Is AI Labor-Augmenting? Evidence from Korean Firms <em>(joint with Jae Wook Jung)</em>
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
