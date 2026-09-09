@@ -1,0 +1,96 @@
+/* ==========================================================================
+   CUSTOM OVERRIDES
+   Imported last in assets/css/main.scss, after every theme partial.
+   ========================================================================== */
+
+/*
+   Narrow screens
+   --------------------------------------------------------------------------
+   .masthead is pinned at a fixed height of $masthead-height (70px) and body
+   reserves exactly that much top padding. The site title is long enough to
+   wrap to two lines on a phone, so the masthead's content runs 96px tall at
+   375px wide, the second line lands on top of the page content, and the nav
+   toggle covers the tail of the first line. Below $large, let the masthead
+   flow with the document so its height follows its content at any width.
+
+   The contact links are the other narrow-screen problem: the theme keeps them
+   in a popover behind a Follow button, so there is no visible email address
+   on a phone. Show them inline instead.
+   ========================================================================== */
+
+@media screen and (max-width: 57.75em) {
+  body {
+    padding-top: 0;
+  }
+
+  .masthead {
+    position: relative;
+    height: auto;
+  }
+
+  /* Reserve room at the right edge so the title wraps before the nav toggle
+     rather than running underneath it. */
+  .greedy-nav .visible-links li:first-child {
+    padding-right: 3.25rem;
+  }
+
+  /* Last of the three table-cells in author-profile.html. As a block it drops
+     to its own line below the avatar and name, which is where the links read
+     best without a tap. */
+  .author__urls-wrapper {
+    display: block;
+    cursor: default;
+
+    button {
+      display: none;
+    }
+  }
+
+  .author__urls {
+    display: block;
+    position: relative;
+    right: auto;
+    z-index: auto;
+    margin: 0.5em 0 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+
+    /* kill the popover's callout triangle */
+    &:before,
+    &:after {
+      display: none;
+    }
+
+    li {
+      display: inline-block;
+      margin-right: 1.25em;
+    }
+
+    a {
+      margin-bottom: 0;
+    }
+  }
+}
+
+/*
+   Phone-width justification
+   --------------------------------------------------------------------------
+   about.md and research.md justify their body text in page-level <style>
+   blocks. Under about 600px the measure is too narrow to distribute the extra
+   space evenly and the lines open up rivers between words, so fall back to a
+   ragged right edge and stop auto-hyphenating. These selectors carry body to
+   outrank the page blocks, which sit in the document after this stylesheet.
+   ========================================================================== */
+
+@media screen and (max-width: 37.5em) {
+  body .justify p,
+  body .abstract {
+    text-align: left;
+    -webkit-hyphens: manual;
+        -ms-hyphens: manual;
+            hyphens: manual;
+  }
+}
