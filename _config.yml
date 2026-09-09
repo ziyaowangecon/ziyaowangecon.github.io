@@ -22,10 +22,10 @@ repository               : "ziyaowangecon/ziyaowangecon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "linkedin_profile.jpeg"
+  avatar           : "ziyao_headshot.jpg"
   name             : "Ziyao Wang" 
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidates in Economics"
+  bio              : "Ph.D. Candidate in Economics"
   location         : "Boston, MA, US"
   employer         : "Northeastern University"
   uri              : # URL
