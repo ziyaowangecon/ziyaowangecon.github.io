@@ -104,14 +104,6 @@ author_profile: true
 ## Work In Progress
 
 ### Smashing the Iron Rice Bowl: Labor-Augmenting Productivity and Labor Market Power under China’s SOE Privatization
-<details>
-  <summary class="toggle-summary">Abstract</summary>
-  <div class="abstract">
-This paper examines how ownership transformation during China’s state-owned enterprise (SOE) reform affected the direction of firm-level technological change. Using Chinese manufacturing data from 1998–2008, I estimate a nested CES production function with factor-augmenting productivities and embed privatization directly into the law of motion for each productivity to address endogenous ownership change. I also relax perfect-competition assumptions in labor markets by allowing ownership-specific rent sharing, which separates true labor-augmenting technological change from wage markdowns. Using the estimates, we quantify how privatization shifts labor-augmenting productivity and compare labor market power between SOEs and private firms.
-    
-<!--The estimates indicate that privatization significantly accelerates labor- and capital-augmenting productivity, with more modest effects for materials, and that SOEs and private firms differ systematically in their labor-market power.-->
-  </div>
-</details>
 
 <span class="underline"></span>
 
