@@ -76,11 +76,11 @@ author_profile: true
 
 ## Working Papers
 
-### [Privatization and Non-neutral Technological Change in Chinese Manufacturing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) 
+### [Ownership and Non-Neutral Technological Change: Evidence from China’s State-Owned Enterprise Privatization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) 
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
-    I estimate firm-level capital-, labor-, and material-augmenting productivity for Chinese manufacturing, 1998–2008, and the effect of state-owned enterprise (SOE) privatization on each. Technological change is strongly biased toward capital and labor. Private firms operate above SOEs on capital and labor, but below on materials. Privatization raises labor-augmenting productivity right after the transition, a front-loaded gain that fades on the full panel but persists among 1998 incumbents. It leaves capital-augmenting productivity no higher and modestly lowers materials. The SOE sector’s catch-up runs through restructuring of the plants the state kept, with exit of overstaffed plants adding to the labor gain.
+    I estimate firm-level capital-, labor-, and material-augmenting productivity for Chinese manufacturing, 1998–2008, and the effect of state-owned enterprise (SOE) privatization on each. Results show technological change is strongly biased toward capital and labor. Private firms operate above SOEs on capital and labor, but below on materials. Privatization raises labor-augmenting productivity right after the transition, a front-loaded gain that fades on the full panel but persists among 1998 incumbents. It leaves capital-augmenting productivity no higher and modestly lowers materials. The SOE sector’s catch-up runs through restructuring of the plants the state kept, with exit of overstaffed plants adding to the labor gain.
   </div>
 </details>
 
