@@ -42,6 +42,11 @@ author_profile: true
     font-size: 0.9em;
   }
 
+  /* Course terms: same secondary grey as the research page */
+  .term {
+    color: #7a8288;
+  }
+
   /* Divider between each paper */
   .underline {
     display: block;
@@ -64,16 +69,16 @@ author_profile: true
 ## Northeastern University
 
 ### Lecturer  
-- Principle of Microeconomics (Summer 2024) [Evaluation: 4.8/5.0] [\[Report\]](https://www.dropbox.com/scl/fi/ruqv0y5tvuwjwsg87j27r/Ziyao-Wang-Summer-2024-ECON-1116.pdf?rlkey=m0czxaz0vkfmyyr4qtd2cb0e1&st=eqmnlr9w&dl=0){:target="_blank" rel="noopener"}
+- Principle of Microeconomics <span class="term">(Summer 2024)</span> [Evaluation: 4.8/5.0] [\[Report\]](https://www.dropbox.com/scl/fi/ruqv0y5tvuwjwsg87j27r/Ziyao-Wang-Summer-2024-ECON-1116.pdf?rlkey=m0czxaz0vkfmyyr4qtd2cb0e1&st=eqmnlr9w&dl=0){:target="_blank" rel="noopener"}
 
-- Principle of Microeconomics (Summer 2023) [Evaluation: 4.7/5.0] [\[Report\]](https://www.dropbox.com/scl/fi/o1i14n0hk775ggcid7uqy/Ziyao-Wang-Summer-2023-ECON-1116.pdf?rlkey=tu6dt5fz9qzkzy542c45sai2j&st=s6b3560t&dl=0){:target="_blank" rel="noopener"}
+- Principle of Microeconomics <span class="term">(Summer 2023)</span> [Evaluation: 4.7/5.0] [\[Report\]](https://www.dropbox.com/scl/fi/o1i14n0hk775ggcid7uqy/Ziyao-Wang-Summer-2023-ECON-1116.pdf?rlkey=tu6dt5fz9qzkzy542c45sai2j&st=s6b3560t&dl=0){:target="_blank" rel="noopener"}
 
 ### Recitation Instructor 
-   -  Principle of Microeconomics (Fall 2022, 2023; Spring 2023, 2024)
+   -  Principle of Microeconomics <span class="term">(Fall 2022, 2023; Spring 2023, 2024)</span>
 
 ### Teaching Assistant 
-   -  Public Finance (Spring 2022)
-   -  Statistics (Spring 2022) 
-   -  Urban Economics (Fall 2022)
+   -  Public Finance <span class="term">(Spring 2022)</span>
+   -  Statistics <span class="term">(Spring 2022)</span> 
+   -  Urban Economics <span class="term">(Fall 2022)</span>
 
  
