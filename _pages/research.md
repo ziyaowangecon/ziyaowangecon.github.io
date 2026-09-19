@@ -67,6 +67,14 @@ author_profile: true
     margin-top: 6px;
   }
 
+  /* Presentations under a paper: muted, secondary to the title */
+  .presentations {
+    font-size: 0.82em;
+    color: #7a8288;          /* theme $gray, one step lighter than body text */
+    margin-top: 6px;
+    line-height: 1.5;
+  }
+
   /* Accessibility focus style */
   summary.toggle-summary:focus {
     outline: 2px dotted #000;
@@ -83,6 +91,7 @@ author_profile: true
     I estimate firm-level capital-, labor-, and material-augmenting productivity for Chinese manufacturing, 1998–2008, and the effect of state-owned enterprise (SOE) privatization on each. Results show technological change is strongly biased toward capital and labor. Private firms operate above SOEs on capital and labor, but below on materials. Privatization raises labor-augmenting productivity right after the transition, a front-loaded gain that fades on the full panel but persists among 1998 incumbents. It leaves capital-augmenting productivity no higher and modestly lowers materials. The SOE sector’s catch-up runs through restructuring of the plants the state kept, with exit of overstaffed plants adding to the labor gain.
   </div>
 </details>
+<div class="presentations"><em>Presented at:</em> CES North America (2025), WEAI (2025), CES China (2025), ZEW Mannheim (2025), BU Empirical Micro (2025), BU–BC Green Line (2025), ASSA (2026), CES North America (2026)</div>
 
 <span class="underline"></span>
 
@@ -93,6 +102,7 @@ author_profile: true
     Does Artificial Intelligence (AI) adoption bias technological change toward labor? We estimate the effect of AI adoption on labor-augmenting and Hicks-neutral productivity for Korean firms from 2017 to 2024. AI adoption raises labor-augmenting productivity by 6.1% and leaves Hicks-neutral productivity indistinguishable from zero, and the adoption effect on output is 1.6%. Manufacturing carries twice the labor-augmenting coefficient of information and communication (ICT). The labor efficiency comes through production processes in manufacturing and through product and service development in ICT. We recover firm markups and find no evidence that AI adoption raises them.
   </div>
 </details>
+<div class="presentations"><em>Presented at:</em> MIT Sloan FutureTech (2025)</div>
 
 <span class="underline"></span>
 
