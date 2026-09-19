@@ -97,5 +97,11 @@ author_profile: true
 <span class="underline"></span>
 
 ### From State to Market: Labor Market Power and Labor-Augmenting Productivity in Chinese Manufacturing
+<details>
+  <summary class="toggle-summary">Abstract</summary>
+  <div class="abstract">
+    <em>Forthcoming.</em>
+  </div>
+</details>
 
 <span class="underline"></span>
