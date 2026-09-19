@@ -96,15 +96,6 @@ author_profile: true
 
 <span class="underline"></span>
 
-
-
-
-
-
-## Work In Progress
-
-### Smashing the Iron Rice Bowl: Labor-Augmenting Productivity and Labor Market Power under China’s SOE Privatization
+### From State to Market: Labor Market Power and Labor-Augmenting Productivity in Chinese Manufacturing
 
 <span class="underline"></span>
-
-
