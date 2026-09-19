@@ -100,7 +100,7 @@ author_profile: true
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
-    <em>Forthcoming.</em>
+    <em>Draft available upon request.</em>
   </div>
 </details>
 
