@@ -84,7 +84,7 @@ author_profile: true
 
 ## Working Papers
 
-### From State to Market: Labor Market Power and Labor-Augmenting Productivity in Chinese Manufacturing
+### From State to Market: Labor Market Power and Non-Neutral Productivity in Chinese Manufacturing
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
