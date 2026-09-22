@@ -9,7 +9,7 @@ author_profile: true
   /* Typography & spacing */
   body { line-height: 1.4; }
   p, li { font-size: 1em; }
-  .coauthors, .subcontent { font-size: 0.9em; }
+  .subcontent { font-size: 0.9em; }
   h2, h3 { margin-top: 1.5em; }
 
   /* Subcontent list styling */
@@ -65,6 +65,18 @@ author_profile: true
   .abstract {
     text-align: justify;
     margin-top: 6px;
+    font-size: 0.92em;
+  }
+
+  /* Coauthor byline: sits right under the title, muted so it does not
+     compete with the title's weight */
+  .coauthors {
+    display: block;
+    font-size: 0.85em;
+    font-style: italic;
+    color: #7a8288;
+    margin-top: 2px;
+    margin-bottom: 10px;
   }
 
   /* Presentations under a paper: muted, secondary to the title */
@@ -93,7 +105,8 @@ author_profile: true
 </details>
 
 <span class="underline"></span>
-### Is AI Labor-Augmenting? Evidence from Korean Firms <em>(joint with Jae Wook Jung)</em>
+### Is AI Labor-Augmenting? Evidence from Korean Firms
+<div class="coauthors">Joint with Jae Wook Jung</div>
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
