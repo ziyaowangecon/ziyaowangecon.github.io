@@ -78,6 +78,10 @@ author_profile: true
     margin-bottom: 10px;
   }
 
+  .coauthors a {
+    text-decoration: none;
+  }
+
   /* Presentations under a paper: muted, secondary to the title */
   .presentations {
     font-size: 0.82em;
