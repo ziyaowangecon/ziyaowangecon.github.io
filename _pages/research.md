@@ -74,7 +74,6 @@ author_profile: true
     display: block;
     font-size: 0.85em;
     font-style: italic;
-    color: #7a8288;
     margin-top: 2px;
     margin-bottom: 10px;
   }
