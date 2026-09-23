@@ -12,6 +12,12 @@ author_profile: true
   .subcontent { font-size: 0.9em; }
   h2, h3 { margin-top: 1.5em; }
 
+  /* Linked paper titles: color alone signals "clickable", no underline.
+     Needs .archive in the selector to outrank the theme's .archive a rule. */
+  .archive h3 a {
+    text-decoration: none;
+  }
+
   /* Subcontent list styling */
   ul.subcontent {
     list-style-type: circle;
@@ -33,7 +39,8 @@ author_profile: true
   summary.toggle-summary {
     cursor: pointer;
     color: #000;
-    text-decoration: underline;  /* set to 'none' if you prefer */
+    font-size: 0.85em;
+    text-decoration: none;
     display: inline-flex;
     align-items: center;
     gap: 6px;
@@ -50,7 +57,7 @@ author_profile: true
     display: inline-block;
     width: 0; height: 0;
     border-style: solid;
-    border-width: 6px 0 6px 9px;          /* right-pointing */
+    border-width: 5px 0 5px 7px;          /* right-pointing */
     border-color: transparent transparent transparent currentColor;
     transform: rotate(0deg);               /* ▶ */
     transition: transform 0.18s ease;
