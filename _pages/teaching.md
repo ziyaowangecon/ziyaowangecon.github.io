@@ -14,32 +14,8 @@ author_profile: true
     font-size: 1em; /* Font size for regular text */
   }
 
-  .coauthors, .other-text {
-    font-size: 0.9em; /* Customize specific classes if needed */
-  }
-
-  .abstract {
-    display: none; /* Hide the abstract by default */
-    text-align: justify; /* Justify text for better readability */
-    margin-top: 5px;
-  }
-
   h2, h3 {
     margin-top: 1.5em; /* Increase space above headings */
-  }
-
-  /* Indent subcontents and add bullet points for them */
-  ul.subcontent {
-    list-style-type: circle; /* Set bullet points to circles for subcontent */
-    margin-left: 10px; /* Indent subcontents */
-    padding-left: 10px; /* Reduce padding for subcontent */
-  }
-
-  .toggle-link {
-    color: #007bff;
-    text-decoration: underline;
-    cursor: pointer;
-    font-size: 0.9em;
   }
 
   /* Course terms: same secondary grey as the research page */
@@ -47,24 +23,14 @@ author_profile: true
     color: #7a8288;
   }
 
-  /* Divider between each paper */
-  .underline {
-    display: block;
-    margin: 20px 0;
-    border-bottom: 1px solid #ddd;
+  /* [Report] links: color alone signals "clickable", no underline,
+     matching the convention on the research page. Needs .archive in the
+     selector to outrank the theme's .archive a rule (same specificity,
+     later in the cascade wins). */
+  .archive a {
+    text-decoration: none;
   }
 </style>
-
-<script>
-  function toggleAbstract(id) {
-    var abstract = document.getElementById(id);
-    if (abstract.style.display === "none" || abstract.style.display === "") {
-      abstract.style.display = "block";
-    } else {
-      abstract.style.display = "none";
-    }
-  }
-</script>
 
 ## Northeastern University
 

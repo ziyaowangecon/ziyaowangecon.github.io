@@ -12,7 +12,17 @@ layout: compress
 
     <!-- Add structured data here -->
     <meta name="title" content="Ziyao Wang | Economics | Northeastern University">
-    <meta name="description" content="Ziyao Wang, Ph.D. Candidate in Economics at Northeastern University specializing in Industrial Organization, Productivity, and Applied Econometrics.">
+    <meta name="description" content="Ziyao Wang, Ph.D. Candidate in Economics at Northeastern University. Research on Empirical Industrial Organization, Development, and Economics of AI, with a focus on productivity, technological change, and market power.">
+
+    <!-- og:image has no sitewide fallback in seo.html: it only renders from
+         page.header.image/overlay_image, which none of our pages set. Cover
+         the default case here so link previews aren't blank; a page with its
+         own header.image still wins via seo.html's og:image tag. -->
+    {% unless page.header.image or page.header.overlay_image %}
+      {% if site.og_image %}
+        <meta property="og:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
+      {% endif %}
+    {% endunless %}
 
     <script type="application/ld+json">
     {
