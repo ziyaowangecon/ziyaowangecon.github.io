@@ -107,7 +107,6 @@ author_profile: true
 ## Working Papers
 
 ### From State to Market: Labor Market Power and Non-Neutral Productivity in Chinese Manufacturing
-<div class="presentations"><em>Presented at:</em> NEU Workshop (2026)</div>
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
@@ -118,7 +117,7 @@ author_profile: true
 <span class="underline"></span>
 ### Is AI Labor-Augmenting? Evidence from Korean Firms
 <div class="coauthors">joint with Jae Wook Jung</div>
-<div class="presentations"><em>Presented at:</em> MIT Sloan FutureTech (2025), CES-NA (2026), NEU Workshop (2026)</div>
+<div class="presentations"><em>Presented at:</em> MIT Sloan FutureTech (2025), CES-NA (2026)</div>
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
@@ -129,7 +128,7 @@ author_profile: true
 <span class="underline"></span>
 
 ### [Ownership and Non-Neutral Technological Change: Evidence from China’s State-Owned Enterprise Privatization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) 
-<div class="presentations"><em>Presented at:</em> NEU Workshop (2023, 2024, 2025), CES-NA (2025), WEAI (2025), CES China (2025), ZEW (2025), BU Micro (2025), BU–BC Green Line (2025), ASSA (2026)</div>
+<div class="presentations"><em>Presented at:</em> CES-NA (2025), WEAI (2025), CES China (2025), ZEW (2025), BU Micro (2025), BU–BC Green Line (2025), ASSA (2026)</div>
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
