@@ -18,6 +18,14 @@ author_profile: true
     text-decoration: none;
   }
 
+  /* Secondary [SSRN] link to the right of a paper title: regular weight and
+     smaller than the title, so the title (which links to the PDF) stays dominant. */
+  .archive h3 a.paper-alt {
+    font-size: 0.7em;
+    font-weight: normal;
+    margin-left: 0.4em;
+  }
+
   /* Subcontent list styling */
   ul.subcontent {
     list-style-type: circle;
@@ -115,7 +123,7 @@ author_profile: true
 </details>
 
 <span class="underline"></span>
-### [Is AI Labor-Augmenting? Evidence from Korean Firms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7525778) [[PDF]](/files/Wang_Jung_AI_Korea.pdf)
+### [Is AI Labor-Augmenting? Evidence from Korean Firms](/files/Wang_Jung_AI_Korea.pdf) <a class="paper-alt" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7525778">[SSRN]</a>
 <div class="coauthors">joint with Jae Wook Jung</div>
 <div class="presentations"><em>Presented at:</em> MIT Sloan FutureTech (2025), CES-NA (2026)</div>
 <details>
@@ -127,7 +135,7 @@ author_profile: true
 
 <span class="underline"></span>
 
-### [Ownership and Non-Neutral Technological Change: Evidence from China’s State-Owned Enterprise Privatization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447) [[PDF]](/files/Wang_SOE_Privatization.pdf)
+### [Ownership and Non-Neutral Technological Change: Evidence from China’s State-Owned Enterprise Privatization](/files/Wang_SOE_Privatization.pdf) <a class="paper-alt" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447">[SSRN]</a>
 <div class="presentations"><em>Presented at:</em> CES-NA (2025), WEAI (2025), CES China (2025), ZEW (2025), BU Micro (2025), BU–BC Green Line (2025), ASSA (2026)</div>
 <details>
   <summary class="toggle-summary">Abstract</summary>
