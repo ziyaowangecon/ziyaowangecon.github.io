@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: ""
+seo_title: "Ziyao Wang | Economics | Northeastern University"
 author_profile: true
 redirect_from: 
   - /about/

@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: ""
+seo_title: "Research - Ziyao Wang | Economics | Northeastern University"
 permalink: /research/
 author_profile: true
 ---
