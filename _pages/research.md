@@ -119,7 +119,7 @@ author_profile: true
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
-    <em>Draft available upon request.</em>
+    This paper jointly estimates firm labor market power and non-neutral productivity for Chinese manufacturing, and the effects of ownership transitions on each. I model the labor wedge as the firm's monopsony power net of the political value its owner attaches to a job, because public owners face employment goals from the government. At the same county employment share and size, state-owned enterprises (SOEs) carry a lower wedge than private firms. Private firms have higher labor-augmenting but lower Hicks-neutral productivity than SOEs. Privatization raises labor-augmenting productivity and the wedge, which I read as a fall in the political value of a job. Leaving the wedge out overstates the product-market markup.
   </div>
 </details>
 
