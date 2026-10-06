@@ -13,7 +13,7 @@ title                    : "Ziyao Wang | Economics | Northeastern University"
 title_separator          : "-"
 name                     : &name "Ziyao Wang"
 description              : &description "Ziyao Wang | Ph.D. in Economics at Northeastern University"
-URL                      : "https://ziyaowangecon.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://ziyaowangecon.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ziyaowangecon/ziyaowangecon.github.io"
 
@@ -282,6 +282,11 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # Search Console ownership file: still served, but not listed in sitemap.xml
+  - scope:
+      path: "google48d9f001edeffbbb.html"
+    values:
+      sitemap: false
 
 
 # Sass/SCSS
