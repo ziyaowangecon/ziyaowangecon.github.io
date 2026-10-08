@@ -126,7 +126,7 @@ author_profile: true
 <span class="underline"></span>
 ### [Is AI Labor-Augmenting? Evidence from Korean Firms](/files/Wang_Jung_AI_Korea.pdf) <a class="paper-alt" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7525778">[SSRN]</a>
 <div class="coauthors">joint with Jae Wook Jung</div>
-<div class="presentations"><em>Presented at:</em> MIT Sloan FutureTech (2025), CES-NA (2026)</div>
+<div class="presentations"><em>Presented at:</em> MIT Sloan FutureTech (2025), CES-NA (2026), NU Brown Bag (2026), Bentley (2026)</div>
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
