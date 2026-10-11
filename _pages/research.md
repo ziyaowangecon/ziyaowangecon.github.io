@@ -136,7 +136,7 @@ author_profile: true
 
 <span class="underline"></span>
 
-### [Ownership and Non-Neutral Technological Change: Evidence from China’s State-Owned Enterprise Privatization](/files/Wang_SOE_Privatization.pdf) <a class="paper-alt" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447">[SSRN]</a>
+### [Ownership and Non-Neutral Technological Change: Evidence from China’s State-Owned Enterprise Privatization](/files/Wang_SOE_Privatization.pdf) <a class="paper-alt" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447">[SSRN]</a> <a class="paper-alt" href="https://arxiv.org/abs/2610.08729">[arXiv]</a>
 <div class="presentations"><em>Presented at:</em> CES-NA (2025), WEAI (2025), CES China (2025), ZEW (2025), BU Micro (2025), BU–BC Green Line (2025), ASSA (2026)</div>
 <details>
   <summary class="toggle-summary">Abstract</summary>
