@@ -24,6 +24,6 @@ I am a PhD candidate in Economics at [Northeastern University](https://cssh.nort
 
 My research spans **Empirical Industrial Organization**, **Development**, and **Economics of AI**, with a special focus on *Productivity*, *Technological Change*, and *Market Power*.
 
-My work explains where firm productivity growth comes from—which inputs, which technologies, and which policies. I develop and estimate structural models that capture firm behavior and market structure, and provide evidence-based insights that speak to policy design, technology adoption, and business strategy.
+My work explains where firm productivity growth comes from and how much market power firms hold in product and labor markets, and asks which inputs, technologies, and policies drive each. I develop and estimate structural models that capture firm behavior and market structure, and provide evidence that speaks to policy design, technology adoption, and business strategy.
 
 </div>
