@@ -150,6 +150,6 @@ author_profile: true
 ## Work In Progress
 
 ### Decomposing Multi-Dimensional Productivity
-<div class="coauthors">joint with Zhezhi Hou and <a href="https://www.shunanzhao.com/">Shunan Zhao</a></div>
+<div class="coauthors">joint with Zhezhi Hou and Shunan Zhao</div>
 
 <span class="underline"></span>
