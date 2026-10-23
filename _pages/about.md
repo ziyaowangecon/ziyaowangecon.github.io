@@ -22,7 +22,7 @@ redirect_from:
 ## About Me
 I am a PhD candidate in Economics at [Northeastern University](https://cssh.northeastern.edu/economics/). I am on the 2026–27 Job Market.
 
-My research spans **Empirical Industrial Organization**, **Development**, and **Economics of AI**, with a special focus on *Productivity*, *Technological Change*, and *Market Power*.
+My research spans **Empirical Industrial Organization** and **Development Economics**, with a special focus on *Firm Productivity*, *Market Power*, *Antitrust*, and *Economics of AI*.
 
 My work explains where firm productivity growth comes from and how much market power firms hold in product and labor markets, and asks which inputs, technologies, and policies drive each. I develop and estimate structural models that capture firm behavior and market structure, and provide evidence that speaks to policy design, technology adoption, and business strategy.
 
