@@ -147,9 +147,14 @@ author_profile: true
 
 <span class="underline"></span>
 
-## Work In Progress
-
 ### Decomposing Multi-Dimensional Productivity
 <div class="coauthors">joint with Zhezhi Hou and Shunan Zhao</div>
+
+<span class="underline"></span>
+
+## Work In Progress
+
+### The Maverick Firm: Bringing Theory to Policy
+<div class="coauthors">joint with John Kwoka</div>
 
 <span class="underline"></span>
