@@ -125,7 +125,7 @@ author_profile: true
 
 <span class="underline"></span>
 ### [Is AI Labor-Augmenting? Evidence from Korean Firms](/files/Wang_Jung_AI_Korea.pdf) <a class="paper-alt" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7525778">[SSRN]</a>
-<div class="coauthors">joint with Jae Wook Jung</div>
+<div class="coauthors">joint with <a href="https://j-jaewook.github.io/index.html">Jae Wook Jung</a></div>
 <div class="presentations"><em>Presented at:</em> MIT Sloan FutureTech (2025), CES-NA (2026), NU Brown Bag (2026), Bentley (2026)</div>
 <details>
   <summary class="toggle-summary">Abstract</summary>
@@ -148,13 +148,13 @@ author_profile: true
 <span class="underline"></span>
 
 ### Decomposing Multi-Dimensional Productivity
-<div class="coauthors">joint with Zhezhi Hou and Shunan Zhao</div>
+<div class="coauthors">joint with Zhezhi Hou and <a href="https://www.shunanzhao.com/">Shunan Zhao</a></div>
 
 <span class="underline"></span>
 
 ## Work In Progress
 
 ### The Maverick Firm: Bringing Theory to Policy
-<div class="coauthors">joint with John Kwoka</div>
+<div class="coauthors">joint with <a href="https://jkwoka.sites.northeastern.edu/">John Kwoka</a></div>
 
 <span class="underline"></span>
