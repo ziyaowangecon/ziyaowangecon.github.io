@@ -119,7 +119,7 @@ author_profile: true
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
-    This paper jointly estimates firm labor market power and non-neutral productivity for Chinese manufacturing, and the effects of ownership transitions on each. I model the labor wedge as monopsony power net of an owner's political cost of unemployment, because public owners face employment goals from the government. At the same county employment share and size, state-owned enterprises (SOEs) carry a lower wedge than private firms. SOEs have lower labor-augmenting but higher Hicks-neutral productivity than private firms. Privatization raises labor-augmenting productivity and the labor wedge, which I read as a fall in the political cost of unemployment. SOEs' higher labor share mostly reflects lower labor-augmenting productivity. The wedge explains nearly half the labor share's fall after privatization.
+    This paper jointly estimates firm labor market power and non-neutral productivity for Chinese manufacturing, and the effects of ownership transitions on each. I model the labor wedge as monopsony power net of an owner's political cost of unemployment, because public owners face employment goals from the government. At the same county employment share and size, state-owned enterprises (SOEs) carry a lower wedge than private firms. SOEs have lower labor-augmenting productivity than private firms. Privatization raises labor-augmenting productivity and the labor wedge, whose rise I read as a fall in the political cost of unemployment. SOEs' higher labor share mostly reflects lower labor-augmenting productivity. The wedge explains nearly half the labor share's fall after privatization.
   </div>
 </details>
 
