@@ -148,7 +148,7 @@ author_profile: true
 
 <span class="underline"></span>
 
-### Decomposing Multi-Dimensional Productivity
+### Aggregating and Decomposing Multi-Dimensional Productivity
 <div class="coauthors">joint with Zhezhi Hou and <a href="https://www.shunanzhao.com/">Shunan Zhao</a></div>
 <details>
   <summary class="toggle-summary">Abstract</summary>
