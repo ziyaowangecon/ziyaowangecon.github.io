@@ -150,6 +150,12 @@ author_profile: true
 
 ### Decomposing Multi-Dimensional Productivity
 <div class="coauthors">joint with Zhezhi Hou and <a href="https://www.shunanzhao.com/">Shunan Zhao</a></div>
+<details>
+  <summary class="toggle-summary">Abstract</summary>
+  <div class="abstract">
+    Recent structural work identifies factor-augmenting productivity at the firm level, and industry-level aggregations and decompositions of these components have begun to appear. This paper asks what the industry aggregate of a factor-augmenting component should be. Two criteria—consistency with the industry’s effective input and consistency with growth accounting—both call for weighting each firm by its share of the augmented factor rather than by its share of output. The factor-weighted and output-weighted aggregates answer different allocation questions and differ by the revenue-weighted covariance between relative factor intensity and factor-augmenting productivity. When firms with higher labor-augmenting productivity are less labor-intensive, as when technology is labor-saving across firms, the covariance is negative and output weighting yields a larger aggregate. We extend cross-sectional, dynamic, and ownership decompositions to these aggregates and organize them in an allocation matrix that shows whether each factor is concentrated in firms that use it efficiently. Estimating a translog production function with capital-augmenting, labor-augmenting, and Hicks-neutral productivity for five Chinese manufacturing industries over 1999–2008, we find that revenue weights give faster growth than capital weights for capital-augmenting productivity in every industry, by 1.8 to 5.6 percentage points per year, and faster growth than labor weights for labor-augmenting productivity in four of the five. Revenue weights also attribute more of this growth to reallocation among surviving firms. That reallocation moved revenue, labor, and capital toward the same firms, those with high Hicks-neutral productivity, and was rarely factor-specific.
+  </div>
+</details>
 
 <span class="underline"></span>
 
