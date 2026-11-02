@@ -115,12 +115,12 @@ author_profile: true
 
 ## Working Papers
 
-### [From State to Market: Labor Market Power and Non-Neutral Productivity in Chinese Manufacturing](https://www.dropbox.com/scl/fi/bezim03vzpj6yfujn4fip/PLP_Ziyao_dropbox.pdf?rlkey=z5ip4ou9s0vpya1d2o92phn6b&st=6qalymve&dl=0)
+### [From State to Market: Monopsony, Employment Goals, and Non-Neutral Productivity in Chinese Manufacturing](https://www.dropbox.com/scl/fi/bezim03vzpj6yfujn4fip/PLP_Ziyao_dropbox.pdf?rlkey=z5ip4ou9s0vpya1d2o92phn6b&st=6qalymve&dl=0)
 <div class="presentations"><em>Presented at:</em> NU Workshop (2026)</div>
 <details>
   <summary class="toggle-summary">Abstract</summary>
   <div class="abstract">
-    This paper jointly estimates firm labor market power and non-neutral productivity for Chinese manufacturing, and the effects of ownership transitions on each. I model the labor wedge as monopsony power net of an owner's political cost of unemployment, because public owners face employment goals from the government. At the same county employment share and size, state-owned enterprises (SOEs) carry a lower wedge than private firms. SOEs have lower labor-augmenting productivity than private firms. Privatization raises labor-augmenting productivity and the labor wedge, whose rise I read as a fall in the political cost of unemployment. SOEs' higher labor share mostly reflects lower labor-augmenting productivity. The wedge explains nearly half the labor share's fall after privatization.
+    This paper jointly estimates the labor wedge and non-neutral productivity for Chinese manufacturing, and the effects of ownership transitions on each. I model the wedge as monopsony power net of the political cost of unemployment that employment goals impose on public owners. At the same county employment share and size, state-owned enterprises (SOEs) carry a lower wedge than private firms. On average, SOEs' larger county shares and employment give them more monopsony power, which the political cost roughly offsets, so the two wedges are close. SOEs' higher labor share and employment reflect lower labor-augmenting productivity and the political cost. Privatization raises labor-augmenting productivity and the labor wedge, and each rise explains about half of the labor share's fall.
   </div>
 </details>
 
