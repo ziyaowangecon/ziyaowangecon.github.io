@@ -115,7 +115,7 @@ author_profile: true
 
 ## Working Papers
 
-### [From State to Market: Monopsony, Employment Goals, and Non-Neutral Productivity in Chinese Manufacturing](/files/Wang_State_to_Market.pdf)
+### [From State to Market: Monopsony, Employment Goals, and Non-Neutral Productivity in Chinese Manufacturing](/files/Wang_State_to_Market.pdf) <a class="paper-alt" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7683498">[SSRN]</a>
 <div class="presentations"><em>Presented at:</em> NU Workshop (2026)</div>
 <details>
   <summary class="toggle-summary">Abstract</summary>
